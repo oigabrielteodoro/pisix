@@ -23,12 +23,15 @@ Emotion.injectGlobal({
   },
   "button": {
     "cursor": "pointer"
+  },
+  "ul": {
+    "listStyle": "none"
   }
 })
 
 @react.component
-let make = () => {
+let make = () => {  
   <div>
-    <h1> {`Hello from ReScript and Vite 😄`->React.string} </h1>
+    <Button>"Explore More"</Button>
   </div>
 }

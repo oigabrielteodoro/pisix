@@ -23,7 +23,7 @@ module Typography = {
     let disclaimer = "1.2rem"
     let small = "1.4rem"
     let paragraph = "1.6rem"
-    let subtitle = "1.6rem"
+    let subtitle = "1.8rem"
     let title = "2.6rem"
     let headline = "3.2rem"
   }
