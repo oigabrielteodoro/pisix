@@ -32,6 +32,6 @@ Emotion.injectGlobal({
 @react.component
 let make = () => {  
   <div>
-    <Button>"Explore More"</Button>
+    <Header />
   </div>
 }
